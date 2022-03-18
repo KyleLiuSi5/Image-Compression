@@ -1,4 +1,4 @@
-"""
+
 #算術編碼與解碼
 
 # Read an image.
@@ -32,4 +32,3 @@ ax[1].imshow(decoded_msg, cmap="gray")
 ax[1].set_title("Reconstructed Image")
 ax[1].set_xticks([])
 ax[1].set_yticks([])
-"""
